@@ -15,23 +15,23 @@ Stock data is provided in Excel with each year in different worksheets but in th
 
 	![2017 Stock Data](NCarr2021/stock-analysis/Stocks-2017.png)
 
-	![2018 Stock Data](Resources/Stocks-2018.png)
+	![2018 Stock Data](NCarr2021/stock-analysis/Stocks-2018.png)
 
 Analysis was done only selecting DAQO (ticker DQ) for 2018 to determine stock performance.
 
-	![DQ](Resources/DQ-Only-Selection.png)
+	![DQ](NCarr2021/stock-analysis/DQ-Only-Selection.png)
 
 Code only selects ticker 'DQ'.
 
-	![DQOnly](Resources/DQ-Only.png)
+	![DQOnly](NCarr2021/stock-analysis/DQ-Only.png)
 
 Results show the return for 2018 was poor, Column C, (highlighted in yellow) with run time.
 
-	![DQ 2018 Results](Resources/DQ-Analysis.png)
+	![DQ 2018 Results](NCarr2021/stock-analysis/DQ-Analysis.png)
 
 Adding start / end timer shows elapsed time to run code for 2018:
 
-	![DQ 2018 Timer](Resources/DQ-Analysis-2018timer.png)
+	![DQ 2018 Timer](NCarr2021/stock-analysis/DQ-Analysis-2018timer.png)
 
 Except for the change in year, the same code was used to run analysis on 2017.
 
@@ -40,9 +40,9 @@ Except for the change in year, the same code was used to run analysis on 2017.
  
 Adding the start / end timer shows the elapsed time for running the code.
 
-	![DQ 2017 Timer](Resources/DQ-Analysis-2017timer.png)
+	![DQ 2017 Timer](NCarr2021/stock-analysis/DQ-Analysis-2017timer.png)
 	
-	![DQ 2018 Timer](Resources/DQ-Analysis-2018timer.png)
+	![DQ 2018 Timer](NCarr2021/stock-analysis/DQ-Analysis-2018timer.png)
 	
 Another option is select different worksheet data is to use an InputBox.
 
@@ -50,21 +50,21 @@ Another option is select different worksheet data is to use an InputBox.
 	
 Or Or a Button linked to the specific macro.
 
-	![Button](Resources/ButtonSelection.png)
+	![Button](NCarr2021-stock-analysis/ButtonSelection.png)
 	
 Comparing both years, the stock had a small return in 2017 vs. a loss in 2018.
 	
-		![Outputs](Resources/DQ-Analysis.png)
-		![Outputs](Resources/DQ-Analysis-2017.png)
+		![Outputs](NCarr2021/stock-analysis/DQ-Analysis.png)
+		![Outputs](NCarr2021/stock-analysis/DQ-Analysis-2017.png)
 		
 Further analysis was performed on all other stocks for 2018 and shows performance for the majority is poor.
 Only two stocks ENPH and RUN did very well. 
 
-	![All Stocks](Resources/All-Stocks-Analysis.png)
+	![All Stocks](NCarr2021/stock-analysis/All-Stocks-Analysis.png)
 
 However stocks in 2017 did well.
 
-	![All Stocks}(Resources/All-Stocks-Analysis-2017.png)
+	![All Stocks}(NCarr2021/stock-analysis/All-Stocks-Analysis-2017.png)
 
 ## Summary
 
