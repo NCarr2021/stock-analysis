@@ -13,7 +13,7 @@ The data is provided in Excel format and VBA will be used to automate formulas f
 
 Stock data is provided in Excel with each year in different worksheets but in the same format.
 
-	![2017 Stock Data](NCarr2021/stock-analysis/Stocks-2017.png)
+	![2017 Stock Data](stock-analysis/Stocks-2017.png)
 
 	![2018 Stock Data](NCarr2021/stock-analysis/Stocks-2018.png)
 
