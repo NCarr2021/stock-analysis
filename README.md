@@ -67,7 +67,7 @@ Only two stocks ENPH and RUN did well.
 
 However, stocks in 2017 did much better.
 
-![]<img src="/All-Stocks-Analysis-2017.png" width="400" />
+<img src="/All-Stocks-Analysis-2017.png" width="400" />
 
 
 ## Summary
